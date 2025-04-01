@@ -1,6 +1,6 @@
-const database = 'BD3-NoSQL-AtlasMongoDB';
+const database = 'BD3-aula1';
 
-const colletion = 'bd3-nosql-atv1';
+const colletion = 'Livraria';
 
 use (database);
 
